@@ -1,0 +1,14 @@
+{
+  "name": "my-json",
+  "version": "1.0.0",
+  "description": "Native wrapper for myjson.com api, to store json data in the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "myjson"
+  ],
+  "author": "Boges",
+  "license": "ISC"
+}

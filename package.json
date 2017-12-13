@@ -1,6 +1,7 @@
 {
   "name": "my-json",
   "version": "1.0.0",
+  "repository": "https://github.com/i3oges/my-json",
   "description": "Native wrapper for myjson.com api, to store json data in the cloud",
   "main": "index.js",
   "scripts": {
